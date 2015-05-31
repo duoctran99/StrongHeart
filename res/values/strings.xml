@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StrongHeart</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Bắt đầu cảnh báo âm thanh</string>
+    <string name="stop">Dừng theo dõi tiếng ồn</string>
+    <string name="stopped">Đã dừng theo dõi..</string>
+    <string name="resume">Tiếp tục theo dõi tiếng ồn</string>
+    <string name="speak">Speak Now</string>
+</resources>
